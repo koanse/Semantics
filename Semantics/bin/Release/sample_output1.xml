@@ -1,0 +1,3537 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<Text>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"          "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="программный" Form="программный" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="синтаксический" Form="синтаксического" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="разбор" Form="разбора" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="машинный" Form="машинного" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="перевод" Form="перевода" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="машинный" Form="машинного" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="перевод" Form="перевода" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<LeftWord Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</LeftWord>
+<RightWord Norm="перевод" Form="перевода" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="синтаксический" Form="синтаксического" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="разбор" Form="разбора" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='+'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="разбор" Form="разбора" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="программный" Form="программный" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="программный" Form="программный" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="разбор" Form="разбора" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='+'>
+<Word Norm="разбор" Form="разбора" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="синтаксический" Form="синтаксического" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='+'>
+<Word Norm="перевод" Form="перевода" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<Word Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</Word>
+</Node><Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="машинный" Form="машинного" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"Program package of syntactic analysis and machine translation. "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"                               "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="(" Form="(" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="cognitive" Form="cognitive" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="dwarf" Form="dwarf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm=")" Form=")" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='misc_es' RightTag='pers_es'>
+<LeftWord Norm="cognitive" Form="cognitive" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</LeftWord>
+<RightWord Norm="dwarf" Form="dwarf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="(" Form="(" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="dwarf" Form="dwarf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='misc_es' RightTag='pers_es'>
+<Word Norm="cognitive" Form="cognitive" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm=")" Form=")" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"(Cognitive Dwarf). "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"        "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="версия" Form="версия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="от" Form="от" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Word Norm="24.11.06" Form="24.11.06" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="версия" Form="версия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="от" Form="от" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="24.11.06" Form="24.11.06" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"Version from 24.11.06. "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"      "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="бесплатный" Form="бесплатная" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="некоммерческий" Form="некоммерческая" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="версия" Form="версия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="мочь" Form="может" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="быть" Form="быть" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="использовать" Form="использована" POS="7">
+<Attribute>7</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+<Attribute>44</Attribute>
+</Word>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Word Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="не" Form="не" POS="10">
+<Attribute>10</Attribute>
+</Word>
+<Word Norm="подразумевать" Form="подразумевающих" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="получение" Form="получение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="доход" Form="дохода" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Word Norm="оценивание" Form="оценивания" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="система" Form="системы" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Word Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="обучение" Form="обучения" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="средний" Form="средних" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="высший" Form="высших" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="учебный" Form="учебных" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="заведение" Form="заведениях" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="учебный" Form="учебных" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="заведение" Form="заведениях" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="высший" Form="высших" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="заведение" Form="заведениях" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='conj_es' RightTag='adj_es'>
+<LeftWord Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</LeftWord>
+<RightWord Norm="высший" Form="высших" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='+'/>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</LeftWord>
+<RightWord Norm="заведение" Form="заведениях" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='prepnp_es'>
+<LeftWord Norm="обучение" Form="обучения" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="обучение" Form="обучения" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</LeftWord>
+<RightWord Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='conj_es' RightTag='prepnp_es'>
+<LeftWord Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</LeftWord>
+<RightWord Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="оценивание" Form="оценивания" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="система" Form="системы" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</LeftWord>
+<RightWord Norm="оценивание" Form="оценивания" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='+'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="получение" Form="получение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="доход" Form="дохода" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='ptp_es' RightTag='acc_es'>
+<LeftWord Norm="подразумевать" Form="подразумевающих" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="получение" Form="получение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='pt_es' RightTag='ptp_es'>
+<LeftWord Norm="не" Form="не" POS="10">
+<Attribute>10</Attribute>
+</LeftWord>
+<RightWord Norm="подразумевать" Form="подразумевающих" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='misc_es'>
+<LeftWord Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='ptp_es'>
+<LeftWord Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="подразумевать" Form="подразумевающих" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</LeftWord>
+<RightWord Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='skas_es' RightTag='prepnp_es'>
+<LeftWord Norm="использовать" Form="использована" POS="7">
+<Attribute>7</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+<Attribute>44</Attribute>
+</LeftWord>
+<RightWord Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='aux_es' RightTag='skas_es'>
+<LeftWord Norm="быть" Form="быть" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="использовать" Form="использована" POS="7">
+<Attribute>7</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+<Attribute>44</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='fin_es' RightTag='inf_es'>
+<LeftWord Norm="мочь" Form="может" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="быть" Form="быть" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="некоммерческий" Form="некоммерческая" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="версия" Form="версия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="бесплатный" Form="бесплатная" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="версия" Form="версия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<LeftWord Norm="версия" Form="версия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="мочь" Form="может" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="мочь" Form="может" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<Word Norm="версия" Form="версия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="бесплатный" Form="бесплатная" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="некоммерческий" Form="некоммерческая" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='&lt;' LeftTag='fin_es' RightTag='inf_es'>
+<Word Norm="быть" Form="быть" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='aux_es' RightTag='skas_es'>
+<Word Norm="использовать" Form="использована" POS="7">
+<Attribute>7</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+<Attribute>44</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='skas_es' RightTag='prepnp_es'>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='misc_es'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='noun_es' RightTag='ptp_es'>
+<Word Norm="подразумевать" Form="подразумевающих" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='pt_es' RightTag='ptp_es'>
+<Word Norm="не" Form="не" POS="10">
+<Attribute>10</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='ptp_es' RightTag='acc_es'>
+<Word Norm="получение" Form="получение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="доход" Form="дохода" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node></Node></Node></Node></Node></Node><Node Sign='*'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Node Sign='+'>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="оценивание" Form="оценивания" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="система" Form="системы" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node><Node Sign='+'>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='conj_es' RightTag='prepnp_es'>
+<Word Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="цель" Form="целей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="обучение" Form="обучения" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='prepnp_es'>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="заведение" Form="заведениях" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="высший" Form="высших" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='+'>
+<Word Norm="средний" Form="средних" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node><Node Sign='+'>
+<Word Norm="высший" Form="высших" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='conj_es' RightTag='adj_es'>
+<Word Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</Word>
+</Node></Node></Node><Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="учебный" Form="учебных" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node></Node></Node></Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"Free-of-charge noncommercial version may be used for purposes, not meaning reception of income, for estimation of system and for purposes of training in average and high educational institutions. "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="перед" Form="перед" POS="12">
+<Attribute>12</Attribute>
+<Attribute>29</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="некоммерческий" Form="некоммерческой" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="версия" Form="версии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="внимательно" Form="внимательно" POS="4">
+<Attribute>4</Attribute>
+</Word>
+<Word Norm="изучить" Form="изучите" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="лицензионный" Form="лицензионное" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="соглашение" Form="соглашение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="лицензионный" Form="лицензионное" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="соглашение" Form="соглашение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='fin_es' RightTag='acc_es'>
+<LeftWord Norm="изучить" Form="изучите" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="соглашение" Form="соглашение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adv_es' RightTag='fin_es'>
+<LeftWord Norm="внимательно" Form="внимательно" POS="4">
+<Attribute>4</Attribute>
+</LeftWord>
+<RightWord Norm="изучить" Form="изучите" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="некоммерческий" Form="некоммерческой" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="версия" Form="версии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="версия" Form="версии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="перед" Form="перед" POS="12">
+<Attribute>12</Attribute>
+<Attribute>29</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='prepnp_es' RightTag='fin_es'>
+<LeftWord Norm="перед" Form="перед" POS="12">
+<Attribute>12</Attribute>
+<Attribute>29</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="изучить" Form="изучите" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="изучить" Form="изучите" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='prepnp_es' RightTag='fin_es'>
+<Word Norm="перед" Form="перед" POS="12">
+<Attribute>12</Attribute>
+<Attribute>29</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="версия" Form="версии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="некоммерческий" Form="некоммерческой" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node></Node><Node Sign='&gt;' LeftTag='adv_es' RightTag='fin_es'>
+<Word Norm="внимательно" Form="внимательно" POS="4">
+<Attribute>4</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='fin_es' RightTag='acc_es'>
+<Word Norm="соглашение" Form="соглашение" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="лицензионный" Form="лицензионное" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node></Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"  Before use of noncommercial version you will attentively learn License agreement. "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="при" Form="при" POS="12">
+<Attribute>12</Attribute>
+<Attribute>30</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="публикация" Form="публикации" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="материал" Form="материалов" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="получить" Form="полученных" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+</Word>
+<Word Norm="с" Form="с" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>29</Attribute>
+</Word>
+<Word Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="ссылка" Form="ссылка" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="обязательный" Form="обязательна" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>44</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='subj_es' RightTag='skas_es'>
+<LeftWord Norm="ссылка" Form="ссылка" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="обязательный" Form="обязательна" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>44</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="с" Form="с" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>29</Attribute>
+</LeftWord>
+<RightWord Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='ptp_es' RightTag='prepnp_es'>
+<LeftWord Norm="получить" Form="полученных" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+</LeftWord>
+<RightWord Norm="с" Form="с" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>29</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='misc_es'>
+<LeftWord Norm="материал" Form="материалов" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='ptp_es'>
+<LeftWord Norm="материал" Form="материалов" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="получить" Form="полученных" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="публикация" Form="публикации" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="материал" Form="материалов" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="при" Form="при" POS="12">
+<Attribute>12</Attribute>
+<Attribute>30</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="публикация" Form="публикации" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="при" Form="при" POS="12">
+<Attribute>12</Attribute>
+<Attribute>30</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="публикация" Form="публикации" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="материал" Form="материалов" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='misc_es'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='noun_es' RightTag='ptp_es'>
+<Word Norm="получить" Form="полученных" POS="7">
+<Attribute>7</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>42</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='ptp_es' RightTag='prepnp_es'>
+<Word Norm="с" Form="с" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>29</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="использование" Form="использованием" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node></Node></Node></Node></Node><Node Sign='*'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="обязательный" Form="обязательна" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>44</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='subj_es' RightTag='skas_es'>
+<Word Norm="ссылка" Form="ссылка" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"   At publication of materials, received with use of package, reference is obligatory. "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"   "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="здесь" Form="здесь" POS="4">
+<Attribute>4</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="можно" Form="можно" POS="15">
+<Attribute>15</Attribute>
+</Word>
+<Word Norm="скачать" Form="скачать" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="описание" Form="описание" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="дополнительный" Form="дополнительные" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="материал" Form="материалы" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm=":" Form=":" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="дополнительный" Form="дополнительные" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="материал" Form="материалы" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<LeftWord Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</LeftWord>
+<RightWord Norm="материал" Form="материалы" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='+'/>
+<Link Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<LeftWord Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</LeftWord>
+<RightWord Norm="описание" Form="описание" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='+'/>
+<Link Sign='&lt;' LeftTag='inf_es' RightTag='acc_es'>
+<LeftWord Norm="скачать" Form="скачать" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='predic_es' RightTag='inf_es'>
+<LeftWord Norm="можно" Form="можно" POS="15">
+<Attribute>15</Attribute>
+</LeftWord>
+<RightWord Norm="скачать" Form="скачать" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='adv_es' RightTag='predic_es'>
+<LeftWord Norm="здесь" Form="здесь" POS="4">
+<Attribute>4</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="можно" Form="можно" POS="15">
+<Attribute>15</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="можно" Form="можно" POS="15">
+<Attribute>15</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='adv_es' RightTag='predic_es'>
+<Word Norm="здесь" Form="здесь" POS="4">
+<Attribute>4</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='predic_es' RightTag='inf_es'>
+<Word Norm="скачать" Form="скачать" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='inf_es' RightTag='acc_es'>
+<Word Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='+'>
+<Word Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node><Node Sign='+'>
+<Word Norm="описание" Form="описание" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<Word Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</Word>
+</Node></Node><Node Sign='+'>
+<Word Norm="материал" Form="материалы" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<Word Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</Word>
+</Node><Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="дополнительный" Form="дополнительные" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node></Node></Node><Node Sign='*'>
+<Word Norm=":" Form=":" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"It is here possible to download package, description, additional materials:     "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="http:\\cs.isa.ru:10000\dwarf" Form="http:\\cs.isa.ru:10000\dwarf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="http:\\cs.isa.ru:10000\dwarf" Form="http:\\cs.isa.ru:10000\dwarf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node></Root><Translation>"Http:\\cs.isa.ru:10000\dwarf      "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="установка" Form="установки" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="проделать" Form="проделайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="следовать" Form="следующее" POS="7">
+<Attribute>7</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm=":" Form=":" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="--" Form="--" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="создать" Form="создайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="директория" Form="директорию" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="который" Form="которой" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="вы" Form="вы" POS="6">
+<Attribute>6</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>34</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="планировать" Form="планируете" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="разместить" Form="разместить" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm=";" Form=";" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="--" Form="--" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="распаковать" Form="распакуйте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="она" Form="нее" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="архив" Form="архив" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='pers_es'>
+<LeftWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</LeftWord>
+<RightWord Norm="она" Form="нее" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='imper_es' RightTag='prepnp_es'>
+<LeftWord Norm="распаковать" Form="распакуйте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='head_es' RightTag='acc_es'>
+<LeftWord Norm="распаковать" Form="распакуйте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="архив" Form="архив" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='inf_es' RightTag='acc_es'>
+<LeftWord Norm="разместить" Form="разместить" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='fin_es' RightTag='inf_es'>
+<LeftWord Norm="планировать" Form="планируете" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="разместить" Form="разместить" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<LeftWord Norm="вы" Form="вы" POS="6">
+<Attribute>6</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>34</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="планировать" Form="планируете" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</LeftWord>
+<RightWord Norm="который" Form="которой" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='prepnp_es' RightTag='fin_es'>
+<LeftWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</LeftWord>
+<RightWord Norm="планировать" Form="планируете" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='imper_es' RightTag='acc_es'>
+<LeftWord Norm="создать" Form="создайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="директория" Form="директорию" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='imper_es' RightTag='acc_es'>
+<LeftWord Norm="проделать" Form="проделайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="следовать" Form="следующее" POS="7">
+<Attribute>7</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="установка" Form="установки" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="установка" Form="установки" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="установка" Form="установки" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node><Node Sign='*'>
+<Word Norm="проделать" Form="проделайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='imper_es' RightTag='acc_es'>
+<Word Norm="следовать" Form="следующее" POS="7">
+<Attribute>7</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>41</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm=":" Form=":" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="--" Form="--" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="создать" Form="создайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='imper_es' RightTag='acc_es'>
+<Word Norm="директория" Form="директорию" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="планировать" Form="планируете" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>34</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='prepnp_es' RightTag='fin_es'>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="который" Form="которой" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<Word Norm="вы" Form="вы" POS="6">
+<Attribute>6</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>34</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='fin_es' RightTag='inf_es'>
+<Word Norm="разместить" Form="разместить" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='inf_es' RightTag='acc_es'>
+<Word Norm="пакет" Form="пакет" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node></Node><Node Sign='*'>
+<Word Norm=";" Form=";" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="--" Form="--" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="распаковать" Form="распакуйте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='imper_es' RightTag='prepnp_es'>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='pers_es'>
+<Word Norm="она" Form="нее" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='&lt;' LeftTag='head_es' RightTag='acc_es'>
+<Word Norm="архив" Form="архив" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"For installation of package do following: -- create directory, in which You plan to place package; -- unpack in it archive. "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"    "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="запуск" Form="запуск" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm=":" Form=":" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="--" Form="--" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="запускать" Form="запускайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="файл" Form="файл" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="wrf" Form="wrf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="exe" Form="exe" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="из" Form="из" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Word Norm="директория" Form="директории" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="bin" Form="bin" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="директория" Form="директории" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="bin" Form="bin" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="из" Form="из" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</LeftWord>
+<RightWord Norm="директория" Form="директории" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='prepnp_es'>
+<LeftWord Norm="exe" Form="exe" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</LeftWord>
+<RightWord Norm="из" Form="из" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="файл" Form="файл" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="wrf" Form="wrf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='imper_es' RightTag='acc_es'>
+<LeftWord Norm="запускать" Form="запускайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</LeftWord>
+<RightWord Norm="файл" Form="файл" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="запуск" Form="запуск" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="запуск" Form="запуск" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="пакет" Form="пакета" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm=":" Form=":" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="--" Form="--" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="запускать" Form="запускайте" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>38</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='imper_es' RightTag='acc_es'>
+<Word Norm="файл" Form="файл" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="wrf" Form="wrf" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node></Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="exe" Form="exe" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='prepnp_es'>
+<Word Norm="из" Form="из" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="директория" Form="директории" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="bin" Form="bin" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node></Node></Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"Start of package: -- start file of wrf. exe from directory of bin. "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"   "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="пример" Form="примеры" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="запуск" Form="запуска" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="содержать" Form="содержатся" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>42</Attribute>
+</Word>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="файл" Form="файле" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="sample" Form="sample" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="bat" Form="bat" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="файл" Form="файле" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="sample" Form="sample" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<LeftWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</LeftWord>
+<RightWord Norm="файл" Form="файле" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='fin_es' RightTag='prepnp_es'>
+<LeftWord Norm="содержать" Form="содержатся" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>42</Attribute>
+</LeftWord>
+<RightWord Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<LeftWord Norm="пример" Form="примеры" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="запуск" Form="запуска" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<LeftWord Norm="пример" Form="примеры" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="содержать" Form="содержатся" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>42</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="содержать" Form="содержатся" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>35</Attribute>
+<Attribute>37</Attribute>
+<Attribute>40</Attribute>
+<Attribute>42</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<Word Norm="пример" Form="примеры" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="запуск" Form="запуска" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node></Node><Node Sign='&lt;' LeftTag='fin_es' RightTag='prepnp_es'>
+<Word Norm="в" Form="в" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='prep_es' RightTag='noun_es'>
+<Word Norm="файл" Form="файле" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='noun_es' RightTag='gen_es'>
+<Word Norm="sample" Form="sample" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node></Node></Node></Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="bat" Form="bat" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"Examples of start are contained in file of sample. bat. "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"     "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="----" Form="----" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="----" Form="----" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"---- "</Translation></Sentence>
+<Sentence>
+<WordList>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+</LinkList>
+<Translation>"    "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="ооо" Form="ооо" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="&quot; left" Form="&quot;" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="когнитивный" Form="когнитивные" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="технология" Form="технологии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="&quot; right" Form="&quot;" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="россия" Form="россия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="москва" Form="москва" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="117312" Form="117312" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="проспект" Form="проспект" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="60-летия" Form="60-летия" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="октябрь" Form="октября" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="9" Form="9" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="офис" Form="офис" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="709" Form="709" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&lt;' LeftTag='num_es' RightTag='noun_es'>
+<LeftWord Norm="60-летия" Form="60-летия" POS="18">
+<Attribute>18</Attribute>
+</LeftWord>
+<RightWord Norm="октябрь" Form="октября" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<LeftWord Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</LeftWord>
+<RightWord Norm="москва" Form="москва" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</RightWord>
+</Link>
+<Link Sign='+'/>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<LeftWord Norm="когнитивный" Form="когнитивные" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</LeftWord>
+<RightWord Norm="технология" Form="технологии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&gt;' LeftTag='misc_es' RightTag='head_es'>
+<LeftWord Norm="&quot; left" Form="&quot;" POS="17">
+<Attribute>17</Attribute>
+</LeftWord>
+<RightWord Norm="технология" Form="технологии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</RightWord>
+</Link>
+<Link Sign='&lt;' LeftTag='noun_es' RightTag='misc_es'>
+<LeftWord Norm="технология" Form="технологии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</LeftWord>
+<RightWord Norm="&quot; right" Form="&quot;" POS="17">
+<Attribute>17</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="ооо" Form="ооо" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="технология" Form="технологии" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='misc_es' RightTag='head_es'>
+<Word Norm="&quot; left" Form="&quot;" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='&gt;' LeftTag='adj_es' RightTag='noun_es'>
+<Word Norm="когнитивный" Form="когнитивные" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='&lt;' LeftTag='noun_es' RightTag='misc_es'>
+<Word Norm="&quot; right" Form="&quot;" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm="москва" Form="москва" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Node Sign='+'>
+<Word Norm="россия" Form="россия" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='+'>
+<Word Norm="москва" Form="москва" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='conj_es' RightTag='noun_es'>
+<Word Norm="," Form="," POS="11">
+<Attribute>11</Attribute>
+</Word>
+</Node></Node></Node><Node Sign='*'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="117312" Form="117312" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="проспект" Form="проспект" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="60-летия" Form="60-летия" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Node Sign='&lt;' LeftTag='num_es' RightTag='noun_es'>
+<Word Norm="октябрь" Form="октября" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node></Node><Node Sign='*'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="9" Form="9" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="," Form="," POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="офис" Form="офис" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="709" Form="709" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node></Root><Translation>"ООО &quot;Cognitive technologies&quot; Russia, Moscow, 117312, Prospectus 60-летия Octobers, 9, office 709. "</Translation></Sentence>
+<Sentence>
+<WordList>
+<Word Norm="тел." Form="тел." POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="+" Form="+" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="7" Form="7" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="(" Form="(" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="495" Form="495" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm=")" Form=")" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="135-5510" Form="135-5510" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="факс" Form="факс" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="+" Form="+" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="7" Form="7" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="(" Form="(" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="495" Form="495" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm=")" Form=")" POS="17">
+<Attribute>17</Attribute>
+</Word>
+<Word Norm="135-5088" Form="135-5088" POS="18">
+<Attribute>18</Attribute>
+</Word>
+<Word Norm="www" Form="www" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Word Norm="http://www.cognitive.ru" Form="http://www.cognitive.ru" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='misc_es' RightTag='pers_es'>
+<LeftWord Norm="www" Form="www" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</LeftWord>
+<RightWord Norm="http://www.cognitive.ru" Form="http://www.cognitive.ru" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="тел." Form="тел." POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="+" Form="+" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="7" Form="7" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="(" Form="(" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="495" Form="495" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm=")" Form=")" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="135-5510" Form="135-5510" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="факс" Form="факс" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="+" Form="+" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="7" Form="7" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="(" Form="(" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="495" Form="495" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm=")" Form=")" POS="17">
+<Attribute>17</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="135-5088" Form="135-5088" POS="18">
+<Attribute>18</Attribute>
+</Word>
+</Node><Node Sign='*'>
+<Word Norm="http://www.cognitive.ru" Form="http://www.cognitive.ru" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>47</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='misc_es' RightTag='pers_es'>
+<Word Norm="www" Form="www" POS="16">
+<Attribute>16</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+<Attribute>47</Attribute>
+</Word>
+</Node></Node></Root><Translation>"    Тел. + 7 (495) 135-5510 Fax + 7 (495) 135-5088 WWW http://www.cognitive.ru    "</Translation></Sentence>
+</Text>

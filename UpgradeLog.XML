@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Semantics">
+</Property><Property Name="Файл решения" Value="C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Semantics.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Semantics.suo">
+</Property><Property Name="Date" Value="22 ноября 2010 г.">
+</Property><Property Name="Time" Value="15:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Semantics.sln" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Semantics.suo" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics.suo">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\Semantics.csproj">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\DSDict.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\DSDict.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\DSDict.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\DSDict.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\CmpForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\CmpForm.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\CmpForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\CmpForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\Program.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\app.config" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\app.config">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\DSDict.xsc" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\DSDict.xsc">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\DSDict.xsd" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\DSDict.xsd">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\DSDict.xss" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\DSDict.xss">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\CmpForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\CmpForm.resx">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\Semantics\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\SynParser.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\SynParser.csproj">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\SynParser.csproj.user" Description="Резервная копия проекта успешно создана как C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\SynParser.csproj.user">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\DSDict.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\DSDict.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\DSDict.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\DSDict.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Form1.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Program.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\app.config" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\app.config">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\DSDict.xsc" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\DSDict.xsc">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\DSDict.xsd" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\DSDict.xsd">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\DSDict.xss" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\DSDict.xss">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Form1.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\SynParser\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\SynParser.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="SynParser" Source="SynParser\SynParser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\TInput.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\TInput.csproj">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\InputForm.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\InputForm.cs">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\InputForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\InputForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\Program.cs">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\app.config" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\app.config">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\InputForm.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\InputForm.resx">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\Semantics\Backup\TInput\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\TInput.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="TInput" Source="TInput\TInput.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Semantics.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Semantics.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event><Event ErrorLevel="0" Project="SynParser" Source="SynParser\SynParser.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event><Event ErrorLevel="0" Project="TInput" Source="TInput\TInput.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

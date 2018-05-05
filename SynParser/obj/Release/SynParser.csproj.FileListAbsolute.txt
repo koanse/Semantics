@@ -1,0 +1,9 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\bin\Release\SynParser.exe.config
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\bin\Release\SynParser.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\bin\Release\SynParser.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\obj\Release\SynParser.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\obj\Release\SynParser.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\obj\Release\SynParser.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\obj\Release\SynParser.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Semantics\SynParser\obj\Release\SynParser.pdb

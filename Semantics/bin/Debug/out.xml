@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<Text>
+<Sentence>
+<WordList>
+<Word Norm="we" Form="we" POS="6">
+<Attribute>6</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="live" Form="live" POS="2">
+<Attribute>2</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+</Word>
+<Word Norm="in" Form="in" POS="10">
+<Attribute>10</Attribute>
+</Word>
+<Word Norm="a" Form="a" POS="12">
+<Attribute>12</Attribute>
+</Word>
+<Word Norm="global" Form="global" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+</Word>
+<Word Norm="villiage" Form="villiage" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="." Form="." POS="19">
+<Attribute>19</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="he" Form="he" POS="6">
+<Attribute>6</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="be" Form="is" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+</Word>
+<Word Norm="a" Form="a" POS="12">
+<Attribute>12</Attribute>
+</Word>
+<Word Norm="simple" Form="simple" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+</Word>
+<Word Norm="test" Form="test" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="." Form="." POS="19">
+<Attribute>19</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="imagine" Form="imagine" POS="2">
+<Attribute>2</Attribute>
+<Attribute>24</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="read" Form="reading" POS="2">
+<Attribute>2</Attribute>
+<Attribute>25</Attribute>
+<Attribute>27</Attribute>
+</Word>
+<Word Norm="if" Form="if" POS="9">
+<Attribute>9</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="there" Form="there" POS="4">
+<Attribute>4</Attribute>
+</Word>
+<Word Norm="jorman" Form="jorman" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="bang" Form="bang" POS="2">
+<Attribute>2</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+</Word>
+<Word Norm="an" Form="an" POS="12">
+<Attribute>12</Attribute>
+</Word>
+<Word Norm="time" Form="time" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="." Form="." POS="19">
+<Attribute>19</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="if" Form="if" POS="9">
+<Attribute>9</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="they" Form="they" POS="6">
+<Attribute>6</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="be" Form="are" POS="2">
+<Attribute>2</Attribute>
+<Attribute>21</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+</Word>
+<Word Norm="american" Form="american" POS="3">
+<Attribute>3</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+</Word>
+<Word Norm="fiveteen" Form="fiveteen" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="minute" Form="minutes" POS="1">
+<Attribute>1</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="earlly" Form="earlly" POS="4">
+<Attribute>4</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="." Form="." POS="19">
+<Attribute>19</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="at first" Form="at first" POS="4">
+<Attribute>4</Attribute>
+</Word>
+<Word Norm="many" Form="many" POS="15">
+<Attribute>15</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="peoply" Form="peoply" POS="2">
+<Attribute>2</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="through" Form="through" POS="10">
+<Attribute>10</Attribute>
+</Word>
+<Word Norm="this" Form="this" POS="15">
+<Attribute>15</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="what" Form="what" POS="15">
+<Attribute>15</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="a" Form="a" POS="12">
+<Attribute>12</Attribute>
+</Word>
+<Word Norm="joke" Form="joke" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="." Form="." POS="19">
+<Attribute>19</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="who" Form="who" POS="6">
+<Attribute>6</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>30</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="hand" Form="hand" POS="2">
+<Attribute>2</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+</Word>
+<Word Norm="a" Form="a" POS="12">
+<Attribute>12</Attribute>
+</Word>
+<Word Norm="coresponding" Form="coresponding" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>30</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="independ" Form="independs" POS="2">
+<Attribute>2</Attribute>
+<Attribute>20</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+<Attribute>30</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="." Form="." POS="19">
+<Attribute>19</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="very" Form="very" POS="4">
+<Attribute>4</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="soon" Form="soon" POS="4">
+<Attribute>4</Attribute>
+</Word>
+<Word Norm="the" Form="the" POS="12">
+<Attribute>12</Attribute>
+</Word>
+<Word Norm="read" Form="read" POS="2">
+<Attribute>2</Attribute>
+<Attribute>25</Attribute>
+<Attribute>26</Attribute>
+</Word>
+<Word Norm="to" Form="to" POS="10">
+<Attribute>10</Attribute>
+</Word>
+<Word Norm="change" Form="change" POS="2">
+<Attribute>2</Attribute>
+<Attribute>24</Attribute>
+</Word>
+<Word Norm="very" Form="very" POS="4">
+<Attribute>4</Attribute>
+</Word>
+<Word Norm="iideas" Form="iideas" POS="13">
+<Attribute>13</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="." Form="." POS="19">
+<Attribute>19</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+</WordList>
+</Sentence>
+</Text>

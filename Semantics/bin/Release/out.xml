@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<Text>
+<Sentence>
+<WordList>
+<Word Norm="я" Form="я" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="прийти" Form="пришел" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+</WordList>
+<LinkList>
+<Link Sign='*'/>
+<Link Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<LeftWord Norm="я" Form="я" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>33</Attribute>
+</LeftWord>
+<RightWord Norm="прийти" Form="пришел" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</RightWord>
+</Link>
+<Link Sign='*'/>
+</LinkList>
+<Root Sign='*'>
+<Word Norm="{ Top }" Form="{ Top }">
+</Word>
+<Node Sign='*'>
+<Word Norm="прийти" Form="пришел" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Node Sign='&gt;' LeftTag='subj_es' RightTag='fin_es'>
+<Word Norm="я" Form="я" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>33</Attribute>
+</Word>
+</Node></Node></Root><Translation>"I came "</Translation></Sentence>
+</Text>
