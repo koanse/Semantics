@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<Text>
+<Sentence>
+<WordList>
+<Word Norm="я" Form="я" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>33</Attribute>
+</Word>
+<Word Norm="явиться" Form="явился" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="к" Form="к" POS="12">
+<Attribute>12</Attribute>
+<Attribute>27</Attribute>
+</Word>
+<Word Norm="ты" Form="тебе" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>27</Attribute>
+<Attribute>34</Attribute>
+</Word>
+<Word Norm="с" Form="с" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>29</Attribute>
+</Word>
+<Word Norm="сообщение" Form="сообщением" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="о" Form="о" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>30</Attribute>
+</Word>
+<Word Norm="тот" Form="том" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm=", что" Form=", что" POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="солнце" Form="солнце" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="подняться" Form="поднялось" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+</WordList>
+</Sentence>
+</Text>
